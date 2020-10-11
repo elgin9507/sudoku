@@ -1,0 +1,6 @@
+# working dir (garbage)
+working/
+# build results
+sudoku
+# vim tags
+tags
