@@ -7,7 +7,7 @@
 #include "sudoku.h"
 #include "shuffle.h"
 #include "utils.h"
-#include "lib/fort.h"
+#include "fort.h"
 #include "render.h"
 #include "parser.h"
 

@@ -1,2 +1,2 @@
 sudoku :
-	cc ./*.c lib/*.c -o sudoku
+	cc src/*.c lib/*.c -I./lib -o sudoku
